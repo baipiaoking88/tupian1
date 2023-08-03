@@ -1,0 +1,22 @@
+.hope-c-ivMHWx-hZistB-cv.hope-icon-button{
+background-color: rgba(255, 255, 255, 0.3) !important;
+}
+.hope-c-PJLV-ijgzmFG-css{
+background-color: rgba(255, 255, 255, 0.3) !important;
+}
+*{font-weight:bold}
+*{font-family:LXGW WenKai}
+.hope-ui-light pre{
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+.hope-ui-dark pre {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+/*去掉vedio*/
+.hope-select__trigger.hope-c-kvTTWD.hope-c-huZphZ.hope-c-kvTTWD-hYRNAb-variant-filled.hope-c-kvTTWD-gfwxhr-size-md.hope-c-huZphZ-cIGthf-cv.hope-c-PJLV.hope-c-PJLV-ijSQbqe-css {display: none !important;}
+/*调整内边距*/
+.hope-select__trigger.hope-c-kvTTWD.hope-c-huZphZ.hope-c-kvTTWD-hYRNAb-variant-filled.hope-c-kvTTWD-gfwxhr-size-md.hope-c-huZphZ-cIGthf-cv.hope-c-PJLV.hope-c-PJLV-ijSQbqe-css {margin: 0px !important;padding: 0  4px!important;}
+.obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-iigjoxS-css {padding: 0!important;}
+/*视频边距*/
+.art-video {margin: 0px !important;padding: 0 !important;}
