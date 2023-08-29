@@ -1,0 +1,24 @@
+/*背景图片*/
+.hope-ui-light{
+ background-image: url(https://cdn.staticaly.com/gh/baipiaoking88/picx-images-hosting@master/789257.79c92wk24io0.webp) !important;
+ background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position-x:center;
+}
+.hope-ui-dark {
+ background-image: url(https://cdn.staticaly.com/gh/baipiaoking88/picx-images-hosting@master/miku-dark2.3mdp3n62jms0.webp) !important;
+ background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position-x:center;
+}
+
+/*背景透明度*/
+.obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-igScBhH-css {
+background-color: rgba(255, 250, 244, 0.7) !important;
+}
+.obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-iigjoxS-css{
+background-color:rgb(0 0 0 / 45%) !important;}
+
+/*README透明度*/
+.hope-c-PJLV.hope-c-PJLV-ikSuVsl-css{
+background-color: rgba(255, 255, 255, 0.75) !important;
+}
+.hope-c-PJLV.hope-c-PJLV-iiuDLME-css{
+background-color:rgb(0 0 0 / 45%)!important;
+}
